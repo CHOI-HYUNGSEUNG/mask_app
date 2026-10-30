@@ -1,0 +1,4 @@
+pip==26.2.2
+streamlit==1.50.0
+tensorflow==2.16.2
+ultralytics==8.4.193
